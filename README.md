@@ -1,8 +1,10 @@
 ## 🛒 Ecommerce Sales Dashboard – Power BI
 An interactive Power BI dashboard built to analyze ecommerce sales performance across states, categories, and customer segments.
-📊 Dashboard Overview
+
+## 📊 Dashboard Overview
 The dashboard tracks key metrics including total sales amount (438K), profit (37K), quantity sold (5,615), and average order value (121K) — with quarterly and state-level filters for dynamic exploration.
-📌 Key Visuals
+
+## 📌 Key Visuals
 
 Profit by Month – Bar chart showing monthly profit trends, highlighting loss months (May, June, August)
 Sales by State – Horizontal bar chart comparing revenue across Maharashtra, Madhya Pradesh, and Uttar Pradesh
@@ -11,12 +13,11 @@ Payment Mode Breakdown – COD leads at 44%, followed by UPI (21%), Debit Card (
 Top Customers – Bar chart of highest-value customers: Harivansh, Madhav, Madan Mohan, Shiva
 Profit by Sub-Category – Printers and Bookcases are the top profitable sub-categories
 
-🔧 Tools Used
-
+## 🔧 Tools Used
 Power BI Desktop
 Microsoft Excel (Data Source)
 
-💡 Key Insights
+## 💡 Key Insights
 
 Clothing dominates sales volume at 63% of total quantity
 Q1 (Jan–Mar) shows the strongest profit months
