@@ -29,12 +29,14 @@ Microsoft Excel (Data Source)
 ## 📊 Dashboard Preview
 
 ![Sales Dashboard](Sales_Dashboard.png)
+
 The dashboard provides a complete overview of ecommerce performance,
 tracking ₹438K in total sales, ₹37K profit, 5,615 units sold, and
 ₹121K average order value — with breakdowns by state, category,
 customer, and payment mode.
 
 ![Sales Trends](sales_trends.png)
+
 The profit trend chart reveals strong performance in Q1 (Jan–Apr),
 followed by a dip into losses during May–August, with a recovery
 peaking in November — offering clear visibility into seasonal
