@@ -1,4 +1,4 @@
-🛒 Ecommerce Sales Dashboard – Power BI
+## 🛒 Ecommerce Sales Dashboard – Power BI
 An interactive Power BI dashboard built to analyze ecommerce sales performance across states, categories, and customer segments.
 📊 Dashboard Overview
 The dashboard tracks key metrics including total sales amount (438K), profit (37K), quantity sold (5,615), and average order value (121K) — with quarterly and state-level filters for dynamic exploration.
