@@ -25,9 +25,12 @@ Microsoft Excel (Data Source)
   * Trend charts
   * Filters & slicers
   * Category-wise performance visuals
- 
+
 ## 📊 Dashboard Preview
 
+![Sales Dashboard](Sales_Dashboard.png)
+
+![Sales Trends](sales_trends.png)
 
 ## 💡 Key Insights
 
