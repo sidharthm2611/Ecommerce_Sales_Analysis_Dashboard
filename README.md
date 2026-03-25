@@ -17,6 +17,18 @@ Profit by Sub-Category – Printers and Bookcases are the top profitable sub-cat
 Power BI Desktop
 Microsoft Excel (Data Source)
 
+###  Dashboard Creation
+
+* Built an interactive **Power BI dashboard** including:
+
+  * KPI Cards
+  * Trend charts
+  * Filters & slicers
+  * Category-wise performance visuals
+ 
+## 📊 Dashboard Preview
+
+
 ## 💡 Key Insights
 
 Clothing dominates sales volume at 63% of total quantity
